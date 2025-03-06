@@ -1,4 +1,5 @@
 JMath
+
 JMath is my personal project and learning experiment. Through this project, I aim to learn the ins and outs of C++ and the fundamentals of computer science. I love math, and 
 through this project, I want to create something akin to a computer algebra system that, when finished, can perform calculations on numbers and equations.
 
