@@ -1,5 +1,3 @@
-
-
 #include <iostream>
 //for debugging integers and idk
 int main() {
