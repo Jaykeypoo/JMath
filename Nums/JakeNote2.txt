@@ -1,0 +1,5 @@
+Dev tools 
+
+IDE-- writing editor
+
+Compiler-- g++ or clang

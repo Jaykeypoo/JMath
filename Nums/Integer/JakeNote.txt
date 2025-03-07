@@ -3,9 +3,9 @@ Notes because I have no idea what I'm doing.
 
 C++ is a compiled language meaning all code is turned into an exicutable all at once, 
 and will not change after that.
-        //This is lifted from stack overflow.* https://stackoverflow.com/questions/6264249/how-does-the-compilation-linking-process-work     
+             
 
-BUILDING STAGES         
+BUILDING STAGES //This is lifted from stack overflow.* https://stackoverflow.com/questions/6264249/how-does-the-compilation-linking-process-work        
 Preprocessing
 The preprocessor handles the preprocessor directives, like #include and #define. It is agnostic of 
 the syntax of C++, which is why it must be used with care.It works on one C++ source file at a 
